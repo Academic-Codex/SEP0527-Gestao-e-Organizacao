@@ -1,0 +1,12 @@
+REPO_TAGLINE: Management basics • organization • planning & execution
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEP0527-Gestao-e-Organizacao
+
+BG_1: "#0B1324"
+BG_2: "#1B2A4A"
+TEXT_MAIN: "#F3F6FF"
+TEXT_MUTED: "#B9C3E6"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
