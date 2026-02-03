@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEP0527-Gestao-e-Organizacao">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:51.764418Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SEP0527-Gestao-e-Organizacao?utm_source=SEP0527-Gestao-e-Organizacao&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:07.588690Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
